@@ -29,7 +29,7 @@ Paper 2:
         matrix; stage cost function, etc..) is provided. Sometimes it might be difficult to find the feasible parameters.
         
 Notes:
-      1. MPC algorithms proposed in the two papers are verified.
-      2. You can test your system dynamics and cost functions with the Matlab code provided in this repository.
-      3. You can plot state trajectories, system input profiles and cost funcition values as well.
-      4. A more general version of .m code for nmpc will be released later.
+        1. MPC algorithms proposed in the two papers are verified.
+        2. You can test your system dynamics and cost functions with the Matlab code provided in this repository.
+        3. You can plot state trajectories, system input profiles and cost funcition values as well.
+        4. A more general version of .m code for nmpc will be released later.
