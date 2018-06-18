@@ -1,9 +1,9 @@
 # Classical_MPC
 matlab code for two papers I read recently:
 Paper 1: 
-        Title: A quasi-infinite horizon nonlinear model predictive control scheme with guaranteed stability
-        Authors: H. Chen and F. Allgower
-        Year: 1998, Automatica
+        Title: A quasi-infinite horizon nonlinear model predictive control scheme with guaranteed stability \n
+        Authors: H. Chen and F. Allgower \n
+        Year: 1998, Automatica \n
 
         Contributions: 
         can be found in the paper
